@@ -28,6 +28,8 @@ Example: `./Ezsubs.sh yahoo yahoo.com 74.6.0.0/16` Or: `./EZsubs.sh yahoo yahoo.
   
   subfinder
   
+  findomain-linux
+  
   nmap
   
   sublist3r.py located in Sublist3r/
