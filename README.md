@@ -3,7 +3,7 @@ External enumeration runner... runner. There are many like it, but this one is m
 
 Built for timed use with cron, set it to run every so often, then check back at the log file to see if any new subs were found. 
 
-Alot of this code was (~~straight up stolen~~) heavily inspired by https://github.com/iamthefrogy/frogy
+Alot of this code was ~~straight up stolen~~ heavily inspired by https://github.com/iamthefrogy/frogy
 
 All subs are saved in output/{ORG_NAME}.master
 
